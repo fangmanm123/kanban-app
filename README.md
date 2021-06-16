@@ -1,4 +1,4 @@
-# react-boilerplate - Boilerplate for "SurviveJS - React"
+# react-boilerplate - Boilerplate for "SurviveJS - React" ~ Change
 
 See [SurviveJS - React](http://survivejs.com/react/introduction/) for the book.
 
